@@ -11,9 +11,10 @@ import os
 
 TEXT = (
     "Nothing here is on fire. The light through the window is doing "
-    "its slow work, and the kettle has already decided to boil. You "
-    "do not have to be fast to be ready. Water does not hurry to "
-    "find the low place. It simply goes, and the going is enough."
+    "its slow work, and the kettle is already humming toward its "
+    "boil. You do not have to be fast to be ready. Water does not "
+    "hurry to find the low place. It simply goes, and the going "
+    "is enough."
 )
 
 
